@@ -9,8 +9,6 @@
 - `npm install`
 - `gulp serve` - For development mode
 - `gulp build` - concat, minify and generate the files for deployment
-### Goodness of Bootstrap Less
-In the source, we have the less files of Bootstrap attached and the variables have been updated to create this theme. You can change the variable in the less file. Animation and Transitions are in separate less file.   
 
 ### Automation tools
 - [Gulp](http://gulpjs.com/)
