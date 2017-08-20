@@ -11,4 +11,4 @@
 - `gulp build` - concat, minify and generate the files for deployment
 
 ### Automation tools
-- [Gulp](http://gulpjs.com/)
+
