@@ -10,5 +10,10 @@
 - `gulp serve` - For development mode
 - `gulp build` - concat, minify and generate the files for deployment
 
+<<<<<<< HEAD
 ### Automation tools
 
+=======
+### Automation NNNNNNN
+- [Gulp](http://gulpjs.com/)
+>>>>>>> feature/CDS-XXX
